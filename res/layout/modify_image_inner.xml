@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:textColor="@color/white" />
+
+<Spinner
+    android:id="@+id/spinner1"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/spinner_height"
+    android:layout_marginBottom="@dimen/button_margin" />
+
+<Spinner
+    android:id="@+id/spinner2"
+      android:layout_width="match_parent"
+    android:layout_height="@dimen/spinner_height"
+    android:layout_marginBottom="@dimen/button_margin" />
+ 
+<TableRow
+    android:layout_marginBottom="@dimen/button_margin"
+    android:gravity="center" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/textView_height"
+        android:layout_gravity="left|center_vertical"
+        android:gravity="center"
+        android:text="@string/caption"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" />
+
+     <EditText
+         android:id="@+id/editText1"
+         android:layout_width="@dimen/editText_width"
+         android:layout_height="@dimen/editText_height"
+         android:layout_gravity="right|center_vertical"
+         android:maxLines="3"
+         android:ems="10" />
+
+</TableRow>
+   
+
+<TableRow android:gravity="center" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:layout_gravity="center_vertical"
+        android:text="@string/checkin" />
+    
+</TableRow>
+   
+
+  
+</TableLayout>

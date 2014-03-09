@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rumpus</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_main1">Click a Pic</string>
+    <string name="button_main2">Search on Yelp</string>
+    <string name="button_main3">Share</string>
+    <string name="button_main4">My Clicks</string>
+    <string name="header_main_text">Try Out Something New Today!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_modify_image">ModifyImageActivity</string>
+    <string name="checkin">Check In</string>
+    <string name="save">Save</string>
+    <string name="caption">Caption</string>
+    <string name="location">At:</string>
+    <string name="title_activity_rumpus_check_in">RumpusCheckIn</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="where_are_you">Where are you?</string>
+    <string name="select_interest">Select Category</string>
+    <string name="searchYelpExample">(e.g. sushi, sky diving, yoga)</string>
+
+    <string-array name="category">
+        <item>Select</item>
+        <item>Sports</item>
+        <item>Arts and Entertainment</item>
+    </string-array>
+    <string-array name="activeLife">
+        <item>Badminton</item>
+        <item>Archery</item>
+        <item>Beaches</item>
+        <item>Boating </item>
+        <item>Bowling</item>
+        <item>Climbing</item>
+        <item>Cycling</item>
+        <item>Dancing</item>
+        <item>Go Karting</item>
+        <item>Golf</item>
+        <item>Hiking</item>
+        <item>Horseback Riding</item>
+        <item>Hot Air Balloon</item>
+        <item>Paddle Boarding</item>
+        <item>Paintball</item>
+        <item>Kayaking</item>
+        <item>Pilates</item>
+        <item>Skating </item>
+        <item>Skiing</item>
+        <item>Squash</item>
+        <item>Surfing</item>
+        <item>Dancing</item>
+        <item>Tennis</item>
+        <item>Yoga</item>
+        <item>Martial Arts </item>
+    </string-array>
+    <string-array name="defaultSpinner">
+        <item>Select</item>
+    </string-array>
+    <string-array name="arts">
+        <item>Amusement Parks </item>
+        <item>Arcade</item>
+        <item>Art Gallery</item>
+        <item>Aquariums</item>
+        <item>Botanical Garden</item>
+        <item>Bonsai</item>
+        <item>Casino</item>
+        <item>Cinema</item>
+        <item>Cooking</item>
+        <item>Computer Programming</item>
+        <item>Concert</item>
+        <item>Crocheting</item>
+        <item>Fairs</item>
+        <item>Fish Keeping</item>
+        <item>Gardening</item>
+        <item>Jewellery Making</item>
+        <item>Knitting</item>
+        <item>Musical Instrument</item>
+        <item>Opera and Ballet </item>
+        <item>Painting</item>
+        <item>Performing Arts</item>
+        <item>Stadium</item>
+        <item>Sculpting</item>
+        <item>Sewing</item>
+        <item>Singing</item>
+        <item>Street Art</item>
+        <item>Wineries</item>
+        <item>Wood Works</item>
+        <item>Writing</item>
+    </string-array>
+
+    <string name="title_activity_search_on_yelp">SearchOnYelp</string>
+    <string name="searchFor">Search for</string>
+    <string name="neighborhood">Neighborhood</string>
+    <string name="search">Search</string>
+    <string name="radius">Radius (miles)</string>
+    <string name="title_activity_display_album">DisplayAlbum</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_display_album_image">DisplayAlbumImage</string>
+
+</resources>
