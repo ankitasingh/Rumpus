@@ -41,8 +41,8 @@ public class RumpusCheckIn extends Activity {
 	private double lat,lon;
 
 	//Developer Secret Codes for making requests to the FourSquare API
-	public static final String CLIENT_ID = "D4BNKO4CRYY1KPXTLL5BFRL5SDGPN2CCH5NLCYSIGMHRYMJM";
-	public static final String CLIENT_SECRET = "XOFTSNRW0HPWEWWHKU34A033S3VR5144D0ZDG2BCKGUWAC2G";
+	public static final String CLIENT_ID = "******************************";
+	public static final String CLIENT_SECRET = "************************************";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
